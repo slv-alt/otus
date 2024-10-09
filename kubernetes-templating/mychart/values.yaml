@@ -1,6 +1,6 @@
 deploy_name: nginx-deploy
 pvc_name: my-pvc
-namespace: homework
+namespace: homeworkhelm
 replica: 3
 app:
   label: nginx
